@@ -1,0 +1,7 @@
+{
+  "universal": {
+    "project": "appSeo",
+    "skipInstall": false,
+    "directory": "."
+  }
+}
